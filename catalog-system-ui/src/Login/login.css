@@ -1,0 +1,37 @@
+#main-section {
+    width: 50vw;
+    margin-top: 15vh;
+    background-color: rgb(255, 255, 255);
+}
+
+#login-panel {
+    min-height: 35vh;
+
+    background-color: white;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 10px;
+    padding: 1em;
+
+    -webkit-box-shadow: 0px 0px 2px 1px rgba(222,222,222,1);
+    -moz-box-shadow: 0px 0px 2px 1px rgba(222,222,222,1);
+    box-shadow: 0px 0px 2px 1px rgba(222,222,222,1);
+
+}
+
+#login-panel > .nav-tabs > .nav-item > button{
+    width: 100%
+}
+.text-center {
+    color: #72A013;
+    font: Poppins;
+}
+.form-label{
+    color: #72A013 !important;
+    font: Poppins;
+}
+
+.btn-primary
+{
+    background-color: #72A013;
+    border-color: #72A013;
+}

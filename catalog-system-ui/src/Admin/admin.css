@@ -1,0 +1,42 @@
+#admin {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 100vh;
+    max-height: 100%;
+    color: white;
+    background: #111413;
+    transition: all 0.3s;
+    -webkit-box-shadow: 0px 2px 3px 1px rgba(184,184,184,1);
+    -moz-box-shadow: 0px 2px 3px 1px rgba(184,184,184,1);
+    box-shadow: 0px 2px 3px 1px rgba(184,184,184,1);
+}
+
+h1{
+    color:#78A41D
+}
+
+.btn-success{
+    color: #fff;
+    background-color: #78A41D;
+    border-color: #78A41D;
+}
+
+.btn-outline-primary {
+    color: #78A41D;
+    background-color: transparent;
+    background-image: none;
+    border-color: #78A41D;
+  }
+
+  .btn-fill-primary{
+    color: #78A41D;
+    background-color: transparent;
+    background-image: none;
+    border-color: #78A41D;
+  }
